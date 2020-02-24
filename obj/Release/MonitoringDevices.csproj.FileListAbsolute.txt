@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\bin\Release\XML\inventory.xml
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\bin\Release\MonitoringDevices.exe.config
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\bin\Release\MonitoringDevices.exe
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\bin\Release\MonitoringDevices.pdb
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MainWindow.g.cs
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\App.g.cs
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices_MarkupCompile.cache
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices_MarkupCompile.lref
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MainWindow.baml
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.g.resources
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.Properties.Resources.resources
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.exe
+C:\Users\nikit\source\repos\MonitoringDevices\MonitoringDevices\obj\Release\MonitoringDevices.pdb

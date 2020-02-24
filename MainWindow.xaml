@@ -1,0 +1,56 @@
+﻿<Window x:Class="MonitoringDevices.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MonitoringDevices"
+        mc:Ignorable="d"
+        Title="MonitoringDevices" Height="450" Width="800">
+
+
+    <Window.Resources>
+
+        <Style TargetType="TextBlock" x:Key="baseTextBlock">
+            <Setter Property="FontSize" Value="15"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="headerStyle" >
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="valueStyle" >
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="notValueStyle" >
+
+        </Style>
+
+        <Style TargetType="StackPanel" x:Key="headerWithAttrStackPanel">
+
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="headerWithArrtTextStyle">
+            <Setter Property="Margin" Value="0 0 5 0"/>
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="attrNameStyle">
+            <Setter Property="Margin" Value="0 0 0 0"/>
+            <Setter Property="Foreground" Value="Red"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="attrValStyle" >
+            <Setter Property="Margin" Value="0 0 0 0"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        
+        <TreeView x:Name="nodeTreeView"/>
+
+    </Grid>
+</Window>
